@@ -3,9 +3,12 @@
   
 ## Tools and Technologies
  - React.js
- - React Icons
- - TailwindCSS
- - JavaScript
+ - React Icons.
+ - TailwindCSS.
+ - JavaScript.
+   
+**Mobile Responsive**. 
+- Hosted on Verc; => https://best-eats-woad.vercel.app/
 
 ### Screenshots (Home Page)
  - ![scale 1](https://github.com/kasydev/Best_Eats/assets/125959390/095c34a9-3b24-47b0-9aea-d7dee11ca523)
